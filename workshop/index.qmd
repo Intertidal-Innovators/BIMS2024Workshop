@@ -20,5 +20,6 @@ This pilot program is designed for high school students historically excluded fr
 - **[Intertidal Lessons](lessons/intertidal_lesson1.qmd)**: Explore ecology topics.
 - **[Art Lessons](lessons/art_lesson1.qmd)**: Dive into digital storytelling.
 - **[Community Builders](community_builders.qmd)**: Activities to foster connection.
+- **[Resources](resources.qmd)**: A list of content to support our learning.\  
 
 We hope this program inspires curiosity and engagement with our amazing coastal ecosystems!
