@@ -1,0 +1,24 @@
+---
+title: "Community Builders"
+format: html
+---
+
+# Community Building Activities
+
+Fostering connection and collaboration is a key component of our curriculum. Explore the activities that bring our community together.
+
+## Activities
+
+### Day 1: Name Game
+
+-   Share your name and a marine organism that represents you.
+
+### Day 3: Adaptation Charades
+
+-   Act out intertidal adaptations while others guess the organism.
+
+### Day 6: Gratitude Circle
+
+-   Reflect on your learning and express gratitude to peers.
+
+These activities create a supportive environment for all participants. [Return to Homepage](index.qmd)

@@ -1,14 +1,24 @@
 ---
-title: "workshop"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Welcome"
+format: html
 ---
 
+# Welcome to the Intertidal Curriculum Pilot Program
 
+Welcome to the **Intertidal Curriculum Pilot Program**, where we combine place-based intertidal ecology education with open-source digital arts to foster learning, creativity, and community connection.
+
+## About the Program
+
+This pilot program is designed for high school students historically excluded from coastal environments. Our two-week curriculum:
+- Integrates science, digital storytelling, and cultural responsiveness.
+- Builds foundational intertidal ecology knowledge.
+- Develops digital storytelling skills using open-source platforms like DaVinci Resolve.
+
+### What You’ll Find Here
+
+- **[Schedule](schedule.qmd)**: A breakdown of the time blocks for each type of learning.
+- **[Intertidal Lessons](lessons/intertidal_lesson1.qmd)**: Explore ecology topics.
+- **[Art Lessons](lessons/art_lesson1.qmd)**: Dive into digital storytelling.
+- **[Community Builders](community_builders.qmd)**: Activities to foster connection.
+
+We hope this program inspires curiosity and engagement with our amazing coastal ecosystems!
