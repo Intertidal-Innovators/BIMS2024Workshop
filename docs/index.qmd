@@ -20,7 +20,7 @@ This pilot program is designed for high school students historically excluded fr
 - Builds foundational intertidal ecology knowledge.\    
 - Develops digital storytelling skills using open-source platforms like DaVinci Resolve and Echoes.\    
 
-### What You’ll Find Here
+## What You’ll Find Here
 
 - **[Schedule](schedule.qmd)**: A 2-week breakdown of the time blocks for each type of learning.
 - **[Intertidal Lessons](lessons/intertidal_lesson1.qmd)**: Explore ecology topics.
