@@ -10,18 +10,17 @@ website:
         href: pilot.qmd
       - text: "Schedule"
         href: schedule.qmd
-      - text: "Community Builders"
-        href: community_builders.qmd
+      
       - text: "Lessons"
         menu:
+          - text: "Learning Objectives"
+            href: learningobjectives.qmd
           - text: "Culturally Responsive Learning"
             href: 6_crt_lessons_formatted.qmd
-          - text: "Intertidal Lessons"
-            href: lessons/intertidal_lesson1.qmd
+          - text: "Intertidal & Art Lessons"
+            href: IA_commbuild.qmd
           - text: "Advanced Intertidal Lessons"
             href: advanced_content.qmd
-          - text: "Digital Art Lessons"
-            href: lessons/art_lesson1.qmd
       - text: "Resources"
         menu:
           - text: 5E's 
