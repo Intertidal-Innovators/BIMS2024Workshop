@@ -21,6 +21,10 @@ website:
       - text: "Community Builders"
         href: community_builders.qmd
       - text: "Resources"
+        menu:
+          - text: 5E's 
+            href: 5e_explainer.qmd
+          - text: Open Source Resources
         href: resources.qmd
       - icon: github
         href: https://github.com/ChrisMantegna
