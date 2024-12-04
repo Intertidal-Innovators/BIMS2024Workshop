@@ -3,3 +3,15 @@ title: "2024 Pilot Summer"
 ---
 
 This is where I'll explain our summer of fun! Until then.. Enjoy these cool photos of our students getting it done!
+
+![Teaching intertidal species ID](images/teaching.jpg){fig-align="left"}
+
+![Iyjean holding a brittle star for the first time](images/excitediyjean.jpg)
+
+![Getting hand's on time with recording and camera equipment](images/dxfield.jpeg){fig-align="left"}
+
+![Alyn and Jafia photographing sea stars](images/photogs.jpeg){fig-align="left"}
+
+![Chelsea, Iyjean, Felix and supportive friends and family members taking our geo-located walk](images/thewalk.jpeg)
+
+![Kimeya leading participants in a breathing exercise to connect us to the intertidal ecosystem](images/kimeya.jpeg)

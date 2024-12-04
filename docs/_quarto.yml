@@ -24,13 +24,12 @@ website:
             href: advanced_content.qmd
           - text: "Digital Art Lessons"
             href: lessons/art_lesson1.qmd
-    
       - text: "Resources"
         menu:
           - text: 5E's 
             href: 5e_explainer.qmd
           - text: Open Source Resources
-        href: resources.qmd
+            href: resources.qmd
       - icon: github
         href: https://github.com/ChrisMantegna
       - icon: twitter
