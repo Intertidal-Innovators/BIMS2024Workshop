@@ -11,6 +11,7 @@ editor: source
 
 Welcome to the **Innovating Science & Art Education**, where we combine place-based intertidal ecology education with open-source digital arts to foster learning, creativity, and community connection.
 
+
 ## About the Program
 
 This pilot program is designed for high school students historically excluded from coastal environments. Our two-week curriculum is concentrated from the 5-week program we ran in Summer 2024 and features:\    
