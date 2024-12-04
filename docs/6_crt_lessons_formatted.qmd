@@ -1,12 +1,18 @@
 ---
-format: markdown
+title: Culturally Responsive Teaching Topics
 ---
 
-# COMMUNITY Week 1: Intertidal Foundations and Digital Storytelling Basics
+# There are a total of 12 activities (2 per day) in this module. It would be advised that Day 1 *Introduction to Intertidal Ecology* be delivered prior to the first program day as the activities may take longer due to unfamiliarity with the topic. 
 
-# Day 1: Introduction to Intertidal Ecology
+## Week 1: Intertidal Foundations and Digital Storytelling Basics
 
-Activity: Ancestral Waters and Stories
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### Day 1: Introduction to Intertidal Ecology
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Activity 1: Ancestral Waters and Stories
 
 Share a local Indigenous story or legend about the intertidal zone (e.g., Coast Salish or other local tribes).
 
@@ -14,7 +20,7 @@ Facilitate a discussion: What role does water play in their own family or commun
 
 Reflective writing prompt: What does water mean to me?
 
-Activity: Water and Freedom
+Activity 2: Water and Freedom
 
 Share stories of the Underground Railroad and the role of rivers and waterways in guiding enslaved people to freedom.
 
@@ -22,19 +28,21 @@ Reflective writing: How can water represent freedom or change in your life?
 
 Discuss how the intertidal could serve as a metaphor for transitions or resilience.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+### Day 2: Biodiversity and Digital Media Introduction
 
-# Day 2: Biodiversity and Digital Media Introduction
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Activity: Water as Life
+Activity 1: Water as Life
 
-Read and discuss excerpts from Robin Wall Kimmerer’s Braiding Sweetgrass, focusing on reciprocity with the natural world.
+Read and discuss excerpts from Robin Wall Kimmerer's Braiding Sweetgrass, focusing on reciprocity with the natural world.
 
 Students share or create a symbol or word that represents their relationship with water.
 
-Create a “reciprocity pledge” for how they will interact with the intertidal during the course.
+Create a "reciprocity pledge" for how they will interact with the intertidal during the course.
 
-Activity: African American Maritime Traditions
+Activity 2: African American Maritime Traditions
 
 Learn about African American contributions to maritime industries, such as fishing, shipbuilding, and navigation.
 
@@ -42,9 +50,13 @@ Share an excerpt from the book African Americans and the Sea by Eric Dolin.
 
 Students create a digital art piece or journal entry inspired by African Americans' historical connections to marine environments.
 
-# Day 3: Adaptations and Building Digital Skills
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Activity: The Intertidal Through My Senses
+### Day 3: Adaptations and Building Digital Skills
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Activity 1: The Intertidal Through My Senses
 
 Begin with a grounding activity: Close your eyes, breathe, and imagine the sounds, smells, and feelings of the intertidal.
 
@@ -52,7 +64,7 @@ Discuss: What senses are activated in this space? How does being here make you f
 
 Students create a short poem, story, or sketch inspired by their sensory experience in the intertidal.
 
-Activity: Intertidal as a Place of Memory
+Activity 2: Intertidal as a Place of Memory
 
 Reflect on the historical use of intertidal zones as gathering or healing spaces.
 
@@ -60,11 +72,15 @@ Discuss: How can water hold memory, and what memories do we bring to the interti
 
 Students interview each other to record short stories about their personal or family connections to water and weave them into their digital projects.
 
-# Week 2: Integrating Science and Storytelling
+## Week 2: Integrating Science and Storytelling
 
-# Day 4: Ecological Interactions and Advanced Editing
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Activity: Intertidal Stewardship
+### Day 1: Ecological Interactions and Advanced Editing
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Activity 1: Intertidal Stewardship
 
 Explore the concept of stewardship through the lens of Indigenous practices. Share examples of sustainable harvesting or care for marine resources.
 
@@ -72,25 +88,29 @@ Group discussion: How can we act as stewards for the intertidal?
 
 Students design a small stewardship action plan they can share in their digital project.
 
-Activity: Environmental Justice and the Intertidal
+Activity 2: Environmental Justice and the Intertidal
 
 Discuss environmental justice issues related to water, such as access to clean beaches or marine conservation inequities.
 
-Explore examples of African American environmental leaders, such as Harriet Tubman’s ecological knowledge or modern water justice activists like Dr. Robert Bullard.
+Explore examples of African American environmental leaders, such as Harriet Tubman's ecological knowledge or modern water justice activists like Dr. Robert Bullard.
 
 Students add an environmental justice element to their projects, considering how their storytelling can empower communities.
 
-# Day 5: Human Impacts and Finalizing Projects
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Activity: Healing Waters
+### Day 2: Human Impacts and Finalizing Projects
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Activity 1: Healing Waters
 
 Reflect on how water can be both a site of trauma and healing. Share stories of resilience or historical recoveries tied to water.
 
-Small groups: Create a “healing water ritual” (e.g., a symbolic gesture or act of gratitude to the intertidal).
+Small groups: Create a "healing water ritual" (e.g., a symbolic gesture or act of gratitude to the intertidal).
 
 Discuss how their digital project can contribute to healing connections between people and the ocean.
 
-Activity: Healing and Resistance Through Art
+Activity 2: Healing and Resistance Through Art
 
 Explore the work of African American artists who use water as a symbol in their art.
 
@@ -98,9 +118,13 @@ Group discussion: How can we use digital tools to tell stories of resilience, ad
 
 Students create a short draft of a video or visual art piece inspired by their learning.
 
-# Day 6: Showcase and Reflection
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Activity: My Connection to the Intertidal
+### Day 3: Showcase and Reflection
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Activity 1: My Connection to the Intertidal
 
 Circle discussion: Share one way their understanding of the intertidal has changed.
 
@@ -108,13 +132,10 @@ Reflective journaling: Write or draw about how they now feel connected to the wa
 
 Closing with a gratitude ceremony: Each student places a small stone, shell, or natural item into a shared vessel, symbolizing their connection and care for the intertidal.
 
-Activity: Celebrating African American Connections to Water
+Activity 2: Celebrating African American Connections to Water
 
-Share a celebratory reading, such as Lucille Clifton’s poem the earth is a living thing or Langston Hughes’ The Negro Speaks of Rivers.
+Share a celebratory reading, such as Lucille Clifton's poem the earth is a living thing or Langston Hughes' The Negro Speaks of Rivers.
 
 Reflective journaling: How does the intertidal connect to their own cultural or community identity?
 
 End with a gratitude circle, where students share what they are taking away from the experience and how they will share it with their community.
-
-
-
