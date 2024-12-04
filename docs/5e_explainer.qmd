@@ -1,0 +1,132 @@
+The 5E’s Method and Bloom’s Taxonomy: A Quick Explainer
+
+The 5E’s instructional model is a framework for designing engaging, student-centered learning experiences. It aligns closely with Bloom’s Taxonomy, which categorizes cognitive learning objectives from lower-order (remembering) to higher-order (creating) thinking skills. The 5E's scaffold students’ learning through active participation, moving them progressively toward deeper understanding and application.
+
+
+
+The 5E’s Framework
+
+Engage
+
+Goal: Capture students’ attention, activate prior knowledge, and spark curiosity.
+
+Bloom’s Connection: Lower-order thinking skills such as Remembering and Understanding.
+
+Example: Asking students to recall prior knowledge or introducing a thought-provoking question.
+
+Explore
+
+Goal: Allow students to investigate the topic through hands-on activities and collaborative problem-solving.
+
+Bloom’s Connection: Moves into Applying and Analyzing, as students actively test ideas and examine patterns.
+
+Example: Conducting field observations or experiments to investigate a concept.
+
+Explain
+
+Goal: Guide students in formalizing their understanding through discussions or direct instruction.
+
+Bloom’s Connection: Focuses on Understanding and Applying by linking new findings to existing knowledge.
+
+Example: Presenting key concepts through lectures, readings, or facilitated discussions.
+
+Elaborate
+
+Goal: Extend learning by applying knowledge to new situations or solving more complex problems.
+
+Bloom’s Connection: Emphasizes higher-order thinking such as Analyzing, Evaluating, and Creating.
+
+Example: Students model ecological interactions or propose solutions to real-world challenges.
+
+Evaluate
+
+Goal: Assess students’ understanding and allow them to reflect on their learning.
+
+Bloom’s Connection: Encompasses all levels of Bloom’s, depending on the assessment method.
+
+Example: Students demonstrate their learning through presentations, reflections, or projects.
+
+
+
+How 5E’s and Bloom’s Work Together
+
+The 5E’s guide the structure of lessons, while Bloom’s Taxonomy ensures that learning objectives are met at varying depths:
+
+Engage and Explore: Activate lower-order skills (remembering, understanding) to build a foundation.
+
+Explain: Bridge foundational skills with application and analysis.
+
+Elaborate: Challenge students to think critically, synthesize information, and solve complex problems.
+
+Evaluate: Provides opportunities for assessment across all levels, from simple recall to creative synthesis.
+
+
+
+Resources for a Deeper Dive
+
+
+
+Resources for Learning About the 5E Model
+
+BSCS Science Learning
+
+Website:
+
+Overview of the 5E Model and its applications in science education.
+
+NASA’s 5E Model Guide
+
+Website:
+
+Practical examples of 5E lessons applied in educational settings.
+
+Edutopia: Teaching Strategies
+
+Website:
+
+Articles and videos about integrating the 5E model into classrooms.
+
+Requires the creation of a free account
+
+
+
+Resources for Learning About Bloom’s Taxonomy
+
+Vanderbilt University Center for Teaching
+
+Website: 
+
+Comprehensive guide to Bloom’s levels with practical teaching examples.
+
+Top Hat
+
+Website:
+
+Ultimate Guide of Bloom’s Taxonomy and its application.
+
+University of Iowa
+
+Website: 
+
+Practical insights into applying Bloom’s revised taxonomy in creating curricula.
+
+
+
+Workshops and Training Opportunities
+
+Coursera: Teaching with the 5E Model
+
+Course: "Foundations of Teaching Science with the 5E Model"
+
+Website:
+
+Requires an account and payment
+
+Khan Academy Educator Training
+
+Website:
+
+Tools and tips on applying Bloom’s Taxonomy and similar frameworks.
+
+
+

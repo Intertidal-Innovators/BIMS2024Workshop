@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Intertidal Innovators"
+  navbar:
+    right:
+      - text: 2024 Pilot
+      - href: pilot.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "Schedule"
+        href: schedule.qmd
+      - text: "Lessons"
+        menu:
+          - text: "Intertidal Lessons"
+            href: lessons/intertidal_lesson1.qmd
+          - text: "Art Lessons"
+            href: lessons/art_lesson1.qmd
+      - text: "Community Builders"
+        href: community_builders.qmd
+      - text: "Resources"
+        href: resources.qmd
+      - icon: github
+        href: https://github.com/ChrisMantegna
+      - icon: twitter
+        href: https://twitter.com/MarineMantegna
+format:
+  html:
+    theme: pulse
+    css: styles.css
+    toc: true
+
+editor: source

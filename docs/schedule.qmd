@@ -1,0 +1,22 @@
+---
+title: "Schedule"
+format: html
+---
+
+# Curriculum Schedule
+
+Here is the two-week schedule for the program, with time blocks dedicated to specific learning types.
+
+| **Day**   | **Time**        | **Activity**             | **Focus**                   |
+|-----------|-----------------|--------------------------|-----------------------------|
+| Monday    | 9:00 - 9:30 AM  | Community Building       | Connecting with peers       |
+|           | 9:30 - 12:30 PM | Intertidal Ecology       | Field and lesson-based      |
+|           | 1:00 - 4:00 PM  | Digital Storytelling     | Hands-on with tools         |
+|           |                 |                          |                             |
+| Tuesday   | 9:00 - 9:30 AM  | Community Building       | Team-building activities    |
+|           | 9:30 - 12:30 PM | Intertidal Ecology       | Field and lab work          |
+|           | 1:00 - 4:00 PM  | Digital Storytelling     | Media creation              |
+| ...       | ...             | ...                      | ...                         |
+
+Explore full lesson details in the **[Lessons Section](lessons/intertidal_lesson1.qmd)**.
+

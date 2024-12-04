@@ -1,0 +1,20 @@
+---
+title: "Art Lessons"
+format: html
+---
+
+# Art Lesson 1: Introduction to Digital Storytelling
+
+**Learning Objectives**
+- Understand the basics of video editing in DaVinci Resolve.
+- Create a simple storyboard for a science communication project.
+
+**Overview**
+Students will learn foundational video editing skills and develop their digital storytelling ideas.
+
+**Activities**
+- Explore DaVinci Resolve basics.
+- Create a storyboard and first draft video.
+
+[Return to Lessons Overview](../index.qmd)
+
