@@ -17,7 +17,7 @@ website:
       - text: "Lessons"
         menu:
           - text: "Culturally Responsive Learning"
-            href: crt_lessons.qmd
+            href: 6_crt_lessons.qmd
           - text: "Intertidal Lessons"
             href: lessons/intertidal_lesson1.qmd
           - text: "Advanced Intertidal Lessons"
