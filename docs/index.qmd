@@ -31,3 +31,5 @@ Links to the content below can also be found in the header of each page.
 - **[Resources](resources.qmd)**: A list of content to support our learning as educators and (soon to be) content experts.\  
 
 We hope this program inspires curiosity and engagement with our amazing coastal ecosystems!
+
+[logos](images/logobar.png)
