@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  ttitle: "Intertidal Innovators"
+  title: "Intertidal Innovators"
   navbar:
     right:
       - text: 2024 Pilot
@@ -22,10 +22,10 @@ website:
         href: community_builders.qmd
       - text: "Resources"
         href: resources.qmd
-    - icon: github
-      href: https://github.com/ChrisMantegna
-    - icon: twitter
-      href: https://twitter.com/MarineMantegna
+      - icon: github
+        href: https://github.com/ChrisMantegna
+      - icon: twitter
+        href: https://twitter.com/MarineMantegna
 format:
   html:
     theme: pulse
