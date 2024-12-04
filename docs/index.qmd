@@ -11,12 +11,14 @@ editor: source
 
 Welcome to the **Innovating Science & Art Education**, where we combine place-based intertidal ecology education with open-source digital arts to foster learning, creativity, and community connection.
 
+![*Pisaster ochraceus*](images/orangestar.jpeg){fig-align="left" width="149"}
+
 ## About the Program
 
 This pilot program is designed for high school students historically excluded from coastal environments. Our two-week curriculum is concentrated from the 5-week program we ran in Summer 2024 and features: \
 - Integration of science, digital storytelling, and cultural responsiveness. \
 - Building foundational intertidal ecology knowledge. \
-- Developing digital storytelling skills using open-source platforms like DaVinci Resolve and Echoes. 
+- Developing digital storytelling skills using open-source platforms like [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) and [Echoes](https://echoes.xyz/) 
 
 ## What You'll Find Here
 

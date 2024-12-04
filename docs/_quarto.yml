@@ -6,10 +6,8 @@ website:
   title: "Intertidal Innovators"
   navbar:
     right:
-      - text: "Home"
-        href: index.qmd
-      - text: 2024 Pilot
-      - href: pilot.qmd
+      - text: "2024 Pilot"
+        href: pilot.qmd
       - text: "Schedule"
         href: schedule.qmd
       - text: "Community Builders"
