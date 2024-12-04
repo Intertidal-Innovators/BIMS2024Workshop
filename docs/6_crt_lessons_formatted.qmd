@@ -2,7 +2,8 @@
 title: Culturally Responsive Teaching Topics
 ---
 
-# There are a total of 12 activities (2 per day) in this module. It would be advised that Day 1 *Introduction to Intertidal Ecology* be delivered prior to the first program day as the activities may take longer due to unfamiliarity with the topic. 
+# There are a total of 12 activities (2 per day) in this module. 
+**Note**: It would be advised that Day 1 *Introduction to Intertidal Ecology* be delivered prior to the first program day as the activities may take longer due to unfamiliarity with the topic. 
 
 ## Week 1: Intertidal Foundations and Digital Storytelling Basics
 
