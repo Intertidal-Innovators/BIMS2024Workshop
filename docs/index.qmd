@@ -32,4 +32,4 @@ Links to the content below can also be found in the header of each page.
 
 We hope this program inspires curiosity and engagement with our amazing coastal ecosystems!
 
-[logos](images/logobar.png)
+![logos](images/logobar.png)
