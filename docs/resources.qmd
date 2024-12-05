@@ -5,15 +5,7 @@ format: html
 
 # Resources
 
-## Science
-
-## Art
-
-## Culturally Responsive Teaching 
-
-## Community Builders
-
-## Pilot Participants
+What do you want to see here? How can we add resources to support the implementation of this curricula!
 
 
 

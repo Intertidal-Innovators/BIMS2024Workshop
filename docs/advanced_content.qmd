@@ -1,25 +1,25 @@
-Advanced Intertidal Ecology Curriculum
+# Advanced Intertidal Ecology Curriculum
 
-Overview
+## Overview
 This six-day curriculum is designed for students with an introductory understanding of intertidal ecology who want to deepen their knowledge. Using advanced ecological topics, students will explore concepts like succession, predation, competition, nutrient cycling, disturbance, and biogeography. Each lesson follows the 5E model (Engage, Explore, Explain, Elaborate, Evaluate) to scaffold learning and encourage critical thinking.
 
 
 
-Learning Objectives
+## Learning Objectives
 
-Understand the ecological processes that shape intertidal communities, including succession, predation, competition, and disturbance.
+* Understand the ecological processes that shape intertidal communities, including succession, predation, competition, and disturbance.
 
-Analyze nutrient cycling and its role in intertidal ecosystem functioning.
+* Analyze nutrient cycling and its role in intertidal ecosystem functioning.
 
-Evaluate how biogeography and dispersal influence intertidal community composition and diversity.
+* Evaluate how biogeography and dispersal influence intertidal community composition and diversity.
 
-Develop skills in scientific observation, data analysis, and hypothesis testing.
+* Develop skills in scientific observation, data analysis, and hypothesis testing.
 
-Synthesize complex ecological concepts into actionable conservation insights.
+* Synthesize complex ecological concepts into actionable conservation insights.
 
 
 
-Day 1: Succession in the Intertidal
+### Day 1: Succession in the Intertidal
 
 Overview: Introduce students to the concept of succession, focusing on its stages, drivers, and effects on intertidal community dynamics.
 
@@ -35,7 +35,7 @@ Evaluate: Group presentations on their tidepool findings and predicted successio
 
 
 
-Day 2: Predation and Herbivory
+### Day 2: Predation and Herbivory
 
 Overview: Examine predator-prey and herbivore-plant dynamics in intertidal zones, emphasizing keystone species.
 
@@ -51,7 +51,7 @@ Evaluate: Write a short analysis predicting the outcome of a specific predator-p
 
 
 
-Day 3: Competition in Intertidal Communities
+### Day 3: Competition in Intertidal Communities
 
 Overview: Explore the role of competition in shaping the distribution and abundance of organisms in intertidal zones.
 
@@ -67,7 +67,7 @@ Evaluate: Submit a reflective journal entry on how competition influences their 
 
 
 
-Day 4: Nutrient Cycling
+### Day 4: Nutrient Cycling
 
 Overview: Study the pathways of nutrient cycling in intertidal ecosystems and their influence on ecosystem health.
 
@@ -81,7 +81,7 @@ Elaborate: Create concept maps linking nutrient pathways to ecosystem functionin
 
 Evaluate: Students design an experiment to test nutrient cycling impacts (e.g., fertilizer runoff effects).
 
-Day 5: Disturbance and Resilience
+### Day 5: Disturbance and Resilience
 
 Overview: Investigate the role of disturbance in maintaining intertidal biodiversity and shaping community resilience.
 
@@ -97,7 +97,7 @@ Evaluate: Group presentations on their resilience strategies.
 
 
 
-Day 6: Biogeography and Dispersal
+### Day 6: Biogeography and Dispersal
 
 Overview: Explore how intertidal organisms disperse and how geographic factors shape species distribution.
 

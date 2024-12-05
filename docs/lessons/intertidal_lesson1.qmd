@@ -1,20 +1,15 @@
 ---
 title: "Intertidal Lessons"
-format: html
 ---
+
+*Note*: This is a sample day for the intertidal content. Full lessons can be found in the dropdown menu labeled "Lessons"
 
 # Intertidal Lesson 1: Introduction to the Intertidal
 
-**Learning Objectives**
-- Understand intertidal zones and biodiversity.
-- Practice tidepool etiquette.
+**Learning Objectives** - Understand intertidal zones and biodiversity. - Practice tidepool etiquette.
 
-**Overview**
-This lesson introduces students to the intertidal ecosystem, including zonation, common species, and physical adaptations.
+**Overview** This lesson introduces students to the intertidal ecosystem, including zonation, common species, and physical adaptations.
 
-**Activities**
-- Field exploration of intertidal zones.
-- Creative activity: Draw or write about your favorite species.
+**Activities** - Field exploration of intertidal zones. - Creative activity: Draw or write about your favorite species.
 
-[Return to Lessons Overview](../index.qmd)
-
+*Full lesson plan with community builders can be found in the header*

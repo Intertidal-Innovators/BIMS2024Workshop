@@ -19,6 +19,10 @@ website:
             href: 6_crt_lessons_formatted.qmd
           - text: "Intertidal & Art Lessons"
             href: IA_commbuild.qmd
+          - text: "Sample Intertidal Lesson"
+            href: lessons/intertidal_lesson1.qmd
+          - text: "Sample Art Lesson"
+            href: lessons/art_lesson1.qmd
           - text: "Advanced Intertidal Lessons"
             href: advanced_content.qmd
       - text: "Resources"

@@ -1,11 +1,10 @@
 ---
 title: "Schedule"
-format: html
 ---
 
 # Curriculum Schedule
 
-Here is the two-week schedule for the program, with time blocks dedicated to specific learning types.
+Here is what a typical day looks like within the two-week schedule for the program, with time blocks dedicated to specific learning types. *Note*: This is a sample. Full lessons can be found in the dropdown menu labeled "Lessons"
 
 | **Day**   | **Time**        | **Activity**             | **Focus**                   |
 |-----------|-----------------|--------------------------|-----------------------------|
